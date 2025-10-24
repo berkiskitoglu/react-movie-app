@@ -1,0 +1,31 @@
+.title{
+    color:brown;
+}
+.new {
+    border: 5px solid red;
+    padding: 10px;
+}
+.f30{
+    font-size: 30px;
+}
+.pointer{
+    cursor: pointer;
+}
+.active{
+    color: red;
+}
+.img-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+#home{
+    background-image: url(https://wallpapershome.com/images/pages/pic_h/12465.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 300px;
+    position: relative;
+}
