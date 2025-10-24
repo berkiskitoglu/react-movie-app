@@ -168,7 +168,7 @@ npm run dev
     <td><b>👨‍💻 Geliştirici Bilgileri</b></td>
     <td>
       👤 <b>Halit Berk İskitoğlu</b><br/>
-      📧 halitberkiskitoglu@gmail.com<br/>
+      📧 iskitoglu.halitberk@gmail.com<br/>
          <a href="https://github.com/berkiskitoglu" target="_blank">🐙 GitHub</a> |
         <a href="https://www.linkedin.com/in/halitberkiskitoglu/" target="_blank">💼 LinkedIn</a><br/>
       🧱 Proje Türü: Frontend — React Vite SPA
